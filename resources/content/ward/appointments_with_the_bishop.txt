@@ -1,0 +1,6 @@
+<br/>
+To arrange an appointment with Bishop, please contact:<br/><br/><b>Brother So and So</b><br/><br/>
+
+Email: <a href="mailto:email@email.com">email@email.com</a><br/><br/>
+Text: <a href="sms:613-555-0121">613-555-0121</a><br/><br/>
+or Phone: <a href="tel:613-555-0121">613-555-0121</a>

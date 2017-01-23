@@ -1,0 +1,50 @@
+<table style="margin:0 auto;table-layout:fixed;font-size:10pt;max-width:400px;">
+	<tr>
+		<td colspan="2" style="text-align:center;font-size:12pt;"><b>Sacrament Meeting</b></td>
+	</tr>
+</table>
+<table style="margin:0 auto;table-layout:fixed;font-size:10pt;max-width:400px;">
+	<tr>
+		<td style="width:105px;"></td>
+		<td><i>Announcements</i></td>
+	</tr>
+	<tr>
+		<td style="white-space:nowrap;">Opening Hymn</td>
+		<td style="overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">#249 Called to Serve</td>
+	</tr>
+	<tr>
+		<td>Invocation</td>
+		<td>By Invitation</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td><i>Ward Business</i></td>
+	</tr>
+	<tr>
+		<td style="white-space:nowrap;">Sacrament Hymn</td>
+		<td style="overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">#174 While of These Emblems We Partake</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td><i>Blessing and Passing of the Sacrament</i></td>
+	</tr>
+	<tr>
+		<td>Speaker</td>
+		<td>Speaker 1</td>
+	<tr/>
+	<tr>
+		<td style="white-space:nowrap;">Closing Hymn</td>
+		<td style="overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">#239 Choose the Right</td>
+	</tr>
+	<tr>
+		<td>Speaker 2</td>
+	<tr/>
+	<tr>
+		<td style="white-space:nowrap;">Closing Hymn</td>
+		<td style="overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">#152 God Be with You Till We Meet Again</td>
+	</tr>
+	<tr>
+		<td>Benediction</td>
+		<td>By Invitation</td>
+	</tr>			
+</table>

@@ -1,0 +1,9 @@
+<br/><b>Missionaries serving in our ward</b>
+<br/>
+<br/>Sister X and Sister Y
+<br/>
+<br/><b>Missionaries serving from our ward</b>
+<br/>
+<br/>Elder Z
+<br/><i>Some Mission</i>
+<br/><a href="mailto:email@myldsmail.net">email@myldsmail.net</a>

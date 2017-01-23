@@ -1,0 +1,40 @@
+Ext.define('ListItem', {
+    extend: 'Ext.data.Model',
+    config: {
+        fields: ['text']
+    }
+});
+        
+var treeStore = Ext.create('Ext.data.TreeStore', {
+	model: 'ListItem',
+    defaultRootProperty: 'items',
+    root: {
+    	text: 'Announcements',
+        items: [
+	        { text: 'General Conference', leaf: true },
+	        { text: "General Women's Meeting", leaf: true },
+        	{ text: 'Region', items: [	
+            	{ text: 'Temple', items: [
+                	{text: 'Temple Schedule', leaf: true},
+        			{text: 'Drop-in Baptisms', leaf: true} ]
+        		},
+                { text: 'Addiction Recovery Program', leaf: true },
+            	{ text: 'Home Storage Center', leaf: true } ]
+            }, 
+	    	{ text: 'Stake', items: [
+				{ text: 'Vision', leaf: true},
+				{ text: 'Choir &#9836; &#9834;', leaf: true },
+				{ text: 'Laurel Priest Conference', leaf: true },
+				{ text: 'Bilingual Missionaries', leaf: true }]
+            } ,
+            { text: 'Ward', items: [
+            	{ text: 'Sacrament Meeting', leaf: true },
+        	{ text: 'Appointments with the Bishop', leaf: true },
+            	{ text: 'Our Missionaries', leaf: true },
+            	{ text: 'Choir &#9836; &#9834;', leaf: true },
+				{ text: 'Family History Seminars', leaf: true },
+				{ text: 'Kids Playgroup', leaf: true },
+				{ text: 'Zumba', leaf: true } ]
+            } ]
+        }
+});
